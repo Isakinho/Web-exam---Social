@@ -1,0 +1,169 @@
+div{
+    width: 340px;
+    height: 200px; 
+    
+}
+
+.title{
+    font-size: 35px;
+    margin-top: -270px;
+    margin-left: 200px;
+    color:  #502050;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.subtitle{
+    font-size: 17px;
+    margin-top: -250px;
+    margin-left: 200px;
+    color:  #a78fa6;
+    font-family: 'League Spartan', sans-serif;
+    width: 400px;
+    line-height: 25px;
+}
+
+.coltontext{
+    font-size: 15px;
+    margin-top: 60px;
+    margin-left: 225px;
+    color: #d0bacf;
+    font-family: 'League Spartan', sans-serif;
+    width: 270px;
+    line-height: 20px;
+
+}
+
+.irenetext{
+    font-size: 15px;
+    margin-top: -200px;
+    margin-left: 610px;
+    color: #d0bacf;
+    font-family: 'League Spartan', sans-serif;
+    width: 270px;
+    line-height: 20px;
+
+}
+
+.annetext{
+    font-size: 15px;
+    margin-top: -200px;
+    margin-left: 1000px;
+    color: #d0bacf;
+    font-family: 'League Spartan', sans-serif;
+    width: 270px;
+    line-height: 20px;
+
+}
+
+.names{
+    font-size: 15px;
+    font-family: 'League Spartan', sans-serif;
+    color: #ffffff;
+    position: relative;
+}
+
+.buyer{
+    font-size: 15px;
+    font-family: 'League Spartan', sans-serif;
+    color:  #b85d86;
+    
+}
+
+.estrella{
+    margin: auto;
+    position: relative;
+}
+
+.textstar{
+    font-size: 17px;
+    color: #502050d8;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 800;
+}
+
+.bottomImage{
+    margin-left: 370px;
+    margin-top: 127px;
+}
+
+.topImage{
+    margin-top: -350px;
+}
+
+
+.left_container{
+    background-color: #502050;
+    margin-left: 190px;
+    margin-top: 270px;
+    border-radius: 10px;
+    width: 350px;
+    height: 230px;
+    
+}
+
+.middle_container{
+    background-color: #502050;
+    margin-left: 570px;
+    margin-top: -215px;
+    border-radius: 10px;
+    width: 350px;
+    height: 230px;
+}
+
+.right_container{
+    background-color: #502050;
+    margin-left: 950px;
+    margin-top: -220px;
+    border-radius: 10px;
+    width: 350px;
+    height: 230px;
+}
+
+.coltonimg{
+    margin-top: -220px;
+    margin-left: 230px;
+    position: absolute;
+}
+
+.ireneimg{
+    margin-top: -205px;
+    margin-left: 620px;
+    position: absolute;
+}
+
+.anneimg{
+    margin-top: -200px;
+    margin-left: 1000px;
+    position: absolute;
+}
+
+.startop_container{
+    background-color: #f7f2f7;
+    
+    margin-left: 780px;
+    margin-top: -550px;
+    border-radius: 10px;
+    width: 400px;
+    height: 60px;
+    
+}
+
+.starmiddle_container{
+    background-color: #f7f2f7;
+    
+    margin-left: 840px;
+    margin-top: 15px;
+    border-radius: 10px;
+    width: 400px;
+    height: 60px;
+}
+
+.starbottom_container{
+    background-color: #f7f2f7;
+    
+    margin-left: 900px;
+    margin-top: 15px;
+    border-radius: 10px;
+    width: 400px;
+    height: 60px;
+}
